@@ -24,3 +24,8 @@ body {
     text-align: center;
     font-family: Georgia;
 }
+
+img, #octopus {
+    float: right;
+    width: 50vw;
+}
