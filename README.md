@@ -1,2 +1,6 @@
 # silver-octo-system
-Test Demo
+
+## Generation Jr Web Dev - Test Repo
+
++ Learning Git
++ Learning Github
